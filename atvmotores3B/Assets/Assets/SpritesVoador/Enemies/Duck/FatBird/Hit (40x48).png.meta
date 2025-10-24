@@ -1,31 +1,22 @@
 fileFormatVersion: 2
-guid: 81944c171d8d64c41aeb7c83b7079e49
+guid: 1c22b71622ee95a42a6eeaac238f0fe2
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8116256361858104333
-    second: Idle (40x48)_0
+      213: 3212130233290299859
+    second: Hit (40x48)_0
   - first:
-      213: -544069407608341166
-    second: Idle (40x48)_1
+      213: 9099119616611608060
+    second: Hit (40x48)_1
   - first:
-      213: 3203661640521442331
-    second: Idle (40x48)_2
+      213: 5776852391583572303
+    second: Hit (40x48)_2
   - first:
-      213: -276829280376742698
-    second: Idle (40x48)_3
+      213: 4404715702971333830
+    second: Hit (40x48)_3
   - first:
-      213: 5183589064663809286
-    second: Idle (40x48)_4
-  - first:
-      213: -4195649162758491093
-    second: Idle (40x48)_5
-  - first:
-      213: -7391342782197517429
-    second: Idle (40x48)_6
-  - first:
-      213: 3107767635188732676
-    second: Idle (40x48)_7
+      213: -6399027368534209264
+    second: Hit (40x48)_4
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -117,14 +108,128 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Idle (40x48)_0
+      name: Hit (40x48)_0
       rect:
         serializedVersion: 2
-        x: 1
+        x: 0
+        y: 6
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d99f87bd67c39c20800000000000000
+      internalID: 3212130233290299859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit (40x48)_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 6
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf56ce40511964e70800000000000000
+      internalID: 9099119616611608060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit (40x48)_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 5
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f416430a4a08b2050800000000000000
+      internalID: 5776852391583572303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit (40x48)_3
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 4
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ccf03c3891b02d30800000000000000
+      internalID: 4404715702971333830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit (40x48)_4
+      rect:
+        serializedVersion: 2
+        x: 161
         y: 3
         width: 37
         height: 41
@@ -136,162 +241,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3f3817537d34d5f80800000000000000
-      internalID: -8116256361858104333
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Idle (40x48)_1
-      rect:
-        serializedVersion: 2
-        x: 41
-        y: 1
-        width: 37
-        height: 44
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 25df852a1c31378f0800000000000000
-      internalID: -544069407608341166
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Idle (40x48)_2
-      rect:
-        serializedVersion: 2
-        x: 83
-        y: 0
-        width: 33
-        height: 46
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b1463dfc941b57c20800000000000000
-      internalID: 3203661640521442331
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Idle (40x48)_3
-      rect:
-        serializedVersion: 2
-        x: 123
-        y: 0
-        width: 33
-        height: 46
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6dc97b77c31882cf0800000000000000
-      internalID: -276829280376742698
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Idle (40x48)_4
-      rect:
-        serializedVersion: 2
-        x: 160
-        y: 5
-        width: 39
-        height: 37
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 60db2ec5acecfe740800000000000000
-      internalID: 5183589064663809286
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Idle (40x48)_5
-      rect:
-        serializedVersion: 2
-        x: 200
-        y: 7
-        width: 39
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b247d93e05f06c5c0800000000000000
-      internalID: -4195649162758491093
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Idle (40x48)_6
-      rect:
-        serializedVersion: 2
-        x: 240
-        y: 7
-        width: 39
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b8338fd86ecac6990800000000000000
-      internalID: -7391342782197517429
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Idle (40x48)_7
-      rect:
-        serializedVersion: 2
-        x: 280
-        y: 5
-        width: 39
-        height: 37
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 40351e3d232012b20800000000000000
-      internalID: 3107767635188732676
+      spriteID: 01d048603861237a0800000000000000
+      internalID: -6399027368534209264
       vertices: []
       indices: 
       edges: []
@@ -310,14 +261,11 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Idle (40x48)_0: -8116256361858104333
-      Idle (40x48)_1: -544069407608341166
-      Idle (40x48)_2: 3203661640521442331
-      Idle (40x48)_3: -276829280376742698
-      Idle (40x48)_4: 5183589064663809286
-      Idle (40x48)_5: -4195649162758491093
-      Idle (40x48)_6: -7391342782197517429
-      Idle (40x48)_7: 3107767635188732676
+      Hit (40x48)_0: 3212130233290299859
+      Hit (40x48)_1: 9099119616611608060
+      Hit (40x48)_2: 5776852391583572303
+      Hit (40x48)_3: 4404715702971333830
+      Hit (40x48)_4: -6399027368534209264
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

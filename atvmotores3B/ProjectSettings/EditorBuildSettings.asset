@@ -35,6 +35,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Assets/Scenes/f10.unity
     guid: 47cb8b70f8a9a234283b5a27ddc5ac87
+  - enabled: 1
+    path: Assets/Assets/Scenes/congratulations.unity
+    guid: 27094f00eb2364b4b9e7a555c0ebfdc9
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0

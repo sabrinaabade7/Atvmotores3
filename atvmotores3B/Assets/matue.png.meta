@@ -1,43 +1,52 @@
 fileFormatVersion: 2
-guid: d220ca774134d1a4080bf15c638eab6d
+guid: 9716c6877a7c22548bfea8094b28c548
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -2833775182555582667
-    second: skill1_0
+      213: -6041856702053199758
+    second: matue_0
   - first:
-      213: -5708941596360452247
-    second: skill1_1
+      213: 6605051006287810327
+    second: matue_1
   - first:
-      213: -6852985128836715184
-    second: skill1_2
+      213: 1918986719608264478
+    second: matue_2
   - first:
-      213: -706068992433645699
-    second: skill1_3
+      213: -3087765217018859790
+    second: matue_3
   - first:
-      213: 6341960913417918139
-    second: skill1_4
+      213: -4425764357163086397
+    second: matue_4
   - first:
-      213: 3594819719720684759
-    second: skill1_5
+      213: 640514280753424883
+    second: matue_5
   - first:
-      213: -5259044502740863221
-    second: skill1_6
+      213: 4736644467604836289
+    second: matue_6
   - first:
-      213: 391909082404558028
-    second: skill1_7
+      213: -3142170915161347062
+    second: matue_7
   - first:
-      213: 6694025853591573197
-    second: skill1_8
+      213: 4478062446395596322
+    second: matue_8
   - first:
-      213: 2365104174983624309
-    second: skill1_9
+      213: 9120069212812819
+    second: matue_9
   - first:
-      213: -6857078158124440818
-    second: skill1_10
+      213: 1568401823227782062
+    second: matue_10
   - first:
-      213: -2682086547265108738
-    second: skill1_11
+      213: -3493540805777771533
+    second: matue_11
+  - first:
+      213: -799644884600060164
+    second: matue_12
+  - first:
+      213: 8717831827373439233
+    second: matue_13
+  - first:
+      213: -7732768096852435760
+    second: matue_14
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -133,13 +142,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: skill1_0
+      name: matue_0
       rect:
         serializedVersion: 2
-        x: 33
-        y: 116
-        width: 47
-        height: 64
+        x: 21
+        y: 0
+        width: 225
+        height: 205
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -148,20 +157,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 53fe4764c786ca8d0800000000000000
-      internalID: -2833775182555582667
+      spriteID: 2705e423753072ca0800000000000000
+      internalID: -6041856702053199758
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: skill1_1
+      name: matue_1
       rect:
         serializedVersion: 2
-        x: 133
-        y: 116
-        width: 50
-        height: 69
+        x: 71
+        y: 198
+        width: 15
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -170,20 +179,284 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 967db798dd3c5c0b0800000000000000
-      internalID: -5708941596360452247
+      spriteID: 71f0f1925ead9ab50800000000000000
+      internalID: 6605051006287810327
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: skill1_2
+      name: matue_2
       rect:
         serializedVersion: 2
-        x: 233
+        x: 80
+        y: 188
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1751f6114c91aa10800000000000000
+      internalID: 1918986719608264478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matue_3
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 193
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fea8c115ed0625d0800000000000000
+      internalID: -3087765217018859790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matue_4
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 181
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cd85bf04c68492c0800000000000000
+      internalID: -4425764357163086397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matue_5
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 186
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f96fd1485093e800800000000000000
+      internalID: 640514280753424883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matue_6
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 197
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cfc7e62c01fbb140800000000000000
+      internalID: 4736644467604836289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matue_7
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 127
+        width: 18
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0c6e3a5334c464d0800000000000000
+      internalID: -3142170915161347062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matue_8
+      rect:
+        serializedVersion: 2
+        x: 235
         y: 116
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e1d67b116452e30800000000000000
+      internalID: 4478062446395596322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matue_9
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 122
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 316b1c597a6602000800000000000000
+      internalID: 9120069212812819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matue_10
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 98
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea32192062514c510800000000000000
+      internalID: 1568401823227782062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matue_11
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 73
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f3b84f8523748fc0800000000000000
+      internalID: -3493540805777771533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matue_12
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 24
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf684f2d63717e4f0800000000000000
+      internalID: -799644884600060164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matue_13
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 20
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1093032abd5fbf870800000000000000
+      internalID: 8717831827373439233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matue_14
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 8
         width: 32
-        height: 67
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -192,206 +465,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 05d27a0855e45e0a0800000000000000
-      internalID: -6852985128836715184
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: skill1_3
-      rect:
-        serializedVersion: 2
-        x: 333
-        y: 116
-        width: 32
-        height: 67
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d7713170ef98336f0800000000000000
-      internalID: -706068992433645699
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: skill1_4
-      rect:
-        serializedVersion: 2
-        x: 426
-        y: 116
-        width: 33
-        height: 66
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bb6dfaf79db230850800000000000000
-      internalID: 6341960913417918139
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: skill1_5
-      rect:
-        serializedVersion: 2
-        x: 526
-        y: 116
-        width: 35
-        height: 66
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7dc45892d7d53e130800000000000000
-      internalID: 3594819719720684759
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: skill1_6
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 16
-        width: 54
-        height: 66
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b07f82c63ee1407b0800000000000000
-      internalID: -5259044502740863221
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: skill1_7
-      rect:
-        serializedVersion: 2
-        x: 104
-        y: 16
-        width: 79
-        height: 66
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: cc419f8eb37507500800000000000000
-      internalID: 391909082404558028
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: skill1_8
-      rect:
-        serializedVersion: 2
-        x: 216
-        y: 16
-        width: 54
-        height: 66
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: dc25b902c05f5ec50800000000000000
-      internalID: 6694025853591573197
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: skill1_9
-      rect:
-        serializedVersion: 2
-        x: 326
-        y: 16
-        width: 35
-        height: 66
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 57631be57b982d020800000000000000
-      internalID: 2365104174983624309
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: skill1_10
-      rect:
-        serializedVersion: 2
-        x: 426
-        y: 15
-        width: 33
-        height: 66
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e0327ebdeb3c6d0a0800000000000000
-      internalID: -6857078158124440818
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: skill1_11
-      rect:
-        serializedVersion: 2
-        x: 533
-        y: 15
-        width: 50
-        height: 69
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ef4c86dde7057cad0800000000000000
-      internalID: -2682086547265108738
+      spriteID: 0dc13a8c260bfa490800000000000000
+      internalID: -7732768096852435760
       vertices: []
       indices: 
       edges: []
@@ -409,19 +484,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      skill1_0: -2833775182555582667
-      skill1_1: -5708941596360452247
-      skill1_10: -6857078158124440818
-      skill1_11: -2682086547265108738
-      skill1_2: -6852985128836715184
-      skill1_3: -706068992433645699
-      skill1_4: 6341960913417918139
-      skill1_5: 3594819719720684759
-      skill1_6: -5259044502740863221
-      skill1_7: 391909082404558028
-      skill1_8: 6694025853591573197
-      skill1_9: 2365104174983624309
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

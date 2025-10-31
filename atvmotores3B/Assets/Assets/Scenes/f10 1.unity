@@ -11097,6 +11097,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   velocidade: 8
   forcaDoPulo: 5
+  mortes: 0
+  mortesText: {fileID: 0}
 --- !u!50 &2012647295
 Rigidbody2D:
   serializedVersion: 5

@@ -21,6 +21,8 @@ public class Player : MonoBehaviour
 
     private Vector3 posicaoInicial; // Posição inicial para resetar ao morrer
 
+    private DeathCounter deathCounter;
+    
     void Start()
     {
         sprite = GetComponent<SpriteRenderer>();
@@ -33,6 +35,8 @@ public class Player : MonoBehaviour
         // Atualiza o texto inicial das mortes
         if (mortesText != null)
             mortesText.text = "Mortes: " + mortes;
+
+        deathCounter = GameObject.Find("Canvas").GetComponent<DeathCounter>();
     }
 
     void Update()
@@ -110,5 +114,7 @@ public class Player : MonoBehaviour
         // Reseta a física
         rb.linearVelocity = Vector2.zero;
         rb.angularVelocity = 0;
+        
+        deathCounter.AddDeath();
     }
 }

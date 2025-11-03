@@ -484,7 +484,22 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      matue_0: -6041856702053199758
+      matue_1: 6605051006287810327
+      matue_10: 1568401823227782062
+      matue_11: -3493540805777771533
+      matue_12: -799644884600060164
+      matue_13: 8717831827373439233
+      matue_14: -7732768096852435760
+      matue_2: 1918986719608264478
+      matue_3: -3087765217018859790
+      matue_4: -4425764357163086397
+      matue_5: 640514280753424883
+      matue_6: 4736644467604836289
+      matue_7: -3142170915161347062
+      matue_8: 4478062446395596322
+      matue_9: 9120069212812819
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

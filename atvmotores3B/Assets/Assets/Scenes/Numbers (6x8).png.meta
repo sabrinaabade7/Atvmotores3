@@ -1,52 +1,37 @@
 fileFormatVersion: 2
-guid: 9716c6877a7c22548bfea8094b28c548
+guid: 1e70a57e81c77714193284d9c89b197e
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6041856702053199758
-    second: matue_0
+      213: 3765974002659529795
+    second: Numbers (6x8)_0
   - first:
-      213: 6605051006287810327
-    second: matue_1
+      213: 2941816793254915803
+    second: Numbers (6x8)_1
   - first:
-      213: 1918986719608264478
-    second: matue_2
+      213: -2557929021225834247
+    second: Numbers (6x8)_2
   - first:
-      213: -3087765217018859790
-    second: matue_3
+      213: 7950921066516036583
+    second: Numbers (6x8)_3
   - first:
-      213: -4425764357163086397
-    second: matue_4
+      213: -5251716087979572258
+    second: Numbers (6x8)_4
   - first:
-      213: 640514280753424883
-    second: matue_5
+      213: -2002842606194828205
+    second: Numbers (6x8)_5
   - first:
-      213: 4736644467604836289
-    second: matue_6
+      213: 158544432913508935
+    second: Numbers (6x8)_6
   - first:
-      213: -3142170915161347062
-    second: matue_7
+      213: -4017353899444519397
+    second: Numbers (6x8)_7
   - first:
-      213: 4478062446395596322
-    second: matue_8
+      213: 3299789660614019106
+    second: Numbers (6x8)_8
   - first:
-      213: 9120069212812819
-    second: matue_9
-  - first:
-      213: 1568401823227782062
-    second: matue_10
-  - first:
-      213: -3493540805777771533
-    second: matue_11
-  - first:
-      213: -799644884600060164
-    second: matue_12
-  - first:
-      213: 8717831827373439233
-    second: matue_13
-  - first:
-      213: -7732768096852435760
-    second: matue_14
+      213: -5110625625359255886
+    second: Numbers (6x8)_9
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -79,7 +64,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -93,7 +78,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 5
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -142,143 +127,11 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: matue_0
+      name: Numbers (6x8)_0
       rect:
         serializedVersion: 2
-        x: 21
+        x: 0
         y: 0
-        width: 225
-        height: 205
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2705e423753072ca0800000000000000
-      internalID: -6041856702053199758
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: matue_1
-      rect:
-        serializedVersion: 2
-        x: 71
-        y: 198
-        width: 15
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 71f0f1925ead9ab50800000000000000
-      internalID: 6605051006287810327
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: matue_2
-      rect:
-        serializedVersion: 2
-        x: 80
-        y: 188
-        width: 6
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e1751f6114c91aa10800000000000000
-      internalID: 1918986719608264478
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: matue_3
-      rect:
-        serializedVersion: 2
-        x: 167
-        y: 193
-        width: 22
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2fea8c115ed0625d0800000000000000
-      internalID: -3087765217018859790
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: matue_4
-      rect:
-        serializedVersion: 2
-        x: 195
-        y: 181
-        width: 8
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3cd85bf04c68492c0800000000000000
-      internalID: -4425764357163086397
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: matue_5
-      rect:
-        serializedVersion: 2
-        x: 200
-        y: 186
-        width: 6
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3f96fd1485093e800800000000000000
-      internalID: 640514280753424883
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: matue_6
-      rect:
-        serializedVersion: 2
-        x: 221
-        y: 197
         width: 6
         height: 8
       alignment: 0
@@ -289,20 +142,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1cfc7e62c01fbb140800000000000000
-      internalID: 4736644467604836289
+      spriteID: 34490e5076d634430800000000000000
+      internalID: 3765974002659529795
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: matue_7
+      name: Numbers (6x8)_1
       rect:
         serializedVersion: 2
-        x: 228
-        y: 127
-        width: 18
-        height: 78
+        x: 6
+        y: 0
+        width: 6
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -311,20 +164,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a0c6e3a5334c464d0800000000000000
-      internalID: -3142170915161347062
+      spriteID: bdeec3c79ce63d820800000000000000
+      internalID: 2941816793254915803
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: matue_8
+      name: Numbers (6x8)_2
       rect:
         serializedVersion: 2
-        x: 235
-        y: 116
-        width: 11
-        height: 7
+        x: 12
+        y: 0
+        width: 6
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -333,20 +186,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 22e1d67b116452e30800000000000000
-      internalID: 4478062446395596322
+      spriteID: 9f8eb219b19608cd0800000000000000
+      internalID: -2557929021225834247
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: matue_9
+      name: Numbers (6x8)_3
       rect:
         serializedVersion: 2
-        x: 238
-        y: 122
-        width: 8
-        height: 16
+        x: 18
+        y: 0
+        width: 6
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -355,20 +208,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 316b1c597a6602000800000000000000
-      internalID: 9120069212812819
+      spriteID: 7ebbbde8598575e60800000000000000
+      internalID: 7950921066516036583
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: matue_10
+      name: Numbers (6x8)_4
       rect:
         serializedVersion: 2
-        x: 232
-        y: 98
-        width: 14
-        height: 21
+        x: 24
+        y: 0
+        width: 6
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -377,20 +230,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ea32192062514c510800000000000000
-      internalID: 1568401823227782062
+      spriteID: ed306c2fa082e17b0800000000000000
+      internalID: -5251716087979572258
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: matue_11
+      name: Numbers (6x8)_5
       rect:
         serializedVersion: 2
-        x: 229
-        y: 73
-        width: 17
-        height: 14
+        x: 30
+        y: 0
+        width: 6
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -399,20 +252,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3f3b84f8523748fc0800000000000000
-      internalID: -3493540805777771533
+      spriteID: 35c5dbcd2497434e0800000000000000
+      internalID: -2002842606194828205
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: matue_12
+      name: Numbers (6x8)_6
       rect:
         serializedVersion: 2
-        x: 234
-        y: 24
-        width: 7
-        height: 6
+        x: 36
+        y: 0
+        width: 6
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -421,20 +274,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cf684f2d63717e4f0800000000000000
-      internalID: -799644884600060164
+      spriteID: 74aecec5253433200800000000000000
+      internalID: 158544432913508935
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: matue_13
+      name: Numbers (6x8)_7
       rect:
         serializedVersion: 2
-        x: 238
-        y: 20
-        width: 7
-        height: 6
+        x: 42
+        y: 0
+        width: 6
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -443,20 +296,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1093032abd5fbf870800000000000000
-      internalID: 8717831827373439233
+      spriteID: b1e349ec9ed7f38c0800000000000000
+      internalID: -4017353899444519397
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: matue_14
+      name: Numbers (6x8)_8
       rect:
         serializedVersion: 2
-        x: 1
-        y: 8
-        width: 32
-        height: 12
+        x: 48
+        y: 0
+        width: 6
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -465,8 +318,30 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0dc13a8c260bfa490800000000000000
-      internalID: -7732768096852435760
+      spriteID: 228c76a96353bcd20800000000000000
+      internalID: 3299789660614019106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers (6x8)_9
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 0
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b6f37c22196319b0800000000000000
+      internalID: -5110625625359255886
       vertices: []
       indices: 
       edges: []
@@ -485,21 +360,16 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      matue_0: -6041856702053199758
-      matue_1: 6605051006287810327
-      matue_10: 1568401823227782062
-      matue_11: -3493540805777771533
-      matue_12: -799644884600060164
-      matue_13: 8717831827373439233
-      matue_14: -7732768096852435760
-      matue_2: 1918986719608264478
-      matue_3: -3087765217018859790
-      matue_4: -4425764357163086397
-      matue_5: 640514280753424883
-      matue_6: 4736644467604836289
-      matue_7: -3142170915161347062
-      matue_8: 4478062446395596322
-      matue_9: 9120069212812819
+      Numbers (6x8)_0: 3765974002659529795
+      Numbers (6x8)_1: 2941816793254915803
+      Numbers (6x8)_2: -2557929021225834247
+      Numbers (6x8)_3: 7950921066516036583
+      Numbers (6x8)_4: -5251716087979572258
+      Numbers (6x8)_5: -2002842606194828205
+      Numbers (6x8)_6: 158544432913508935
+      Numbers (6x8)_7: -4017353899444519397
+      Numbers (6x8)_8: 3299789660614019106
+      Numbers (6x8)_9: -5110625625359255886
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
